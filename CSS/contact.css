@@ -6,7 +6,7 @@
 #general{
     width: 1345px;
     height: 885px;
-    background-image: url(../images/fondo.jpg);
+    background-color: coral;
     background-size: 100% 100%;
     background-repeat: no-repeat;
 }
@@ -22,14 +22,14 @@
     border-radius: 15px;
     padding: 10px;
     margin: 10px;
-    background-color: orange;
+    background-color: rgb(159, 25, 208);
 }
 
 
 
-#fot {
+#foot {
     background-color: rgba(243, 114, 29, 0.829);
-    size: 1.5cm;
+    size: 1cm;
     text-align: center;
     border-radius: 15px;
 }
@@ -43,91 +43,3 @@
         margin: 100px auto;
         padding: 15px;
 }
-
-form h1{
-    text-align: center;
-    color: black;
-    margin: 30px;
-    font-family: 'Anton', sans-serif;
-
-}
-
-
-a {
-    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    font-size: 0.5cm;
-
-}
-
-a:active {
-    color: green;
-}
-
-a:visited {
-    color: deeppink;
-}
-
-a:link {
-    color: purple;
-}
-
-
-li {
-    list-style: none;
-}
-
-div {
-    width: 1000px;
-}
-
-
-h1, h3 {
-    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    font-size: xx-large ;
-}
-
-h2 {
-    font-family: fantasy;
-    color: blue;
-    font-size: large ;
-}
-
-h1 {
-    color: blanchedalmond;
-}
-
-h3 {
-    color: orangered;
-}
-
-h4 {
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    color: red;
-    font-size: large ;
-}
-
-h5{
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    color: brown;
-    font-size: large ;
-}
-
-h6 {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: darkblue;
-    font-size: large ;
-}
-
-
-p {
-    align-content: justify;
-    line-height: 1.5em;
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-}
-
-
-p {
-    color:  solid black;
-    font-weight: bold;
-}
-    
