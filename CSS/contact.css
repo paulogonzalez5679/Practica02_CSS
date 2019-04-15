@@ -3,7 +3,8 @@
     padding: 0;
 }
 
-#general{
+#general
+{
     width: 1345px;
     height: 885px;
     background-color: coral;
@@ -29,12 +30,12 @@
 
 #foot {
     background-color: rgba(243, 114, 29, 0.829);
-    size: 1cm;
     text-align: center;
     border-radius: 15px;
 }
 
-.form{
+.form
+{
 
         background-color: rgba(58, 58, 122, 0.596);
         width: 360px;
