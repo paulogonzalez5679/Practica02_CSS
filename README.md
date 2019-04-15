@@ -2,7 +2,7 @@
 ACTIVIDADES POR DESARROLLAR
 1.	Crear un repositorio en GitHub con el nombre “Practica02 – Mi Sitio Web (CSS)”
 	
-![1](https://github.com/paulogonzalez5679/Practica02_CSS/blob/master/Screenshots/Capturadepantalla(2).png)
+![1](https://github.com/paulogonzalez5679/Practica02_CSS/blob/master/Screenshots/Captura%20de%20pantalla%20(2).png)
 
 
 
