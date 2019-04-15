@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+#general{
+    margin: auto;
+    width: 950px;
+    height: 1850px;
+    background-color: cornflowerblue;
+}
+
+#logo{
+    width: 950px;
+}
+
+#menu{
+    width: 300px;
+    background-color: blue;
+    border: 1px;
+    border-radius: 15px;
+    border-color: black;
+    float: left;
+}
+
+li{
+    list-style: none;
+}
+
+#sect{
+    width: 600px;
+    height: 1530px;
+    border: 1px;
+    border-radius: 15px;
+    background-color: dimgray;
+    margin-right: 315px;
+    margin-left: 315px;
+}
+
+.fot{
+    background-color: brown;
+    width: 950px;
+    border-radius: 15px;
+}
